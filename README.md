@@ -6,3 +6,9 @@
 * [Generate API Token](https://platform.openai.com/account/api-keys)
 
 
+Sample Output, since the default prompt is : "Tell me a joke! "
+![Screenshot 2024-02-03 at 4.36.23 AM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Ff_%2Fy88qf7c545l9vgqjr20nqw_w0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_58hzCp%2FScreenshot%202024-02-03%20at%204.36.23%20AM.png)
+
+
+Giving a custom prompt: 
+![Screenshot 2024-02-03 at 4.40.59 AM.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Ff_%2Fy88qf7c545l9vgqjr20nqw_w0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_QwJ3rT%2FScreenshot%202024-02-03%20at%204.40.59%20AM.png)
